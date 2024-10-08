@@ -15,7 +15,7 @@
 
 body{
     font-family: Bai Jamjuree;
-    background-color: bisque;
+    background-image: url(img/bg-desktop.webp) ;
 }
 
 footer{
@@ -41,4 +41,21 @@ footer p{
     margin: 1rem;
     background-color: rgb(190, 132, 61);
     height: 20rem;
+}
+.cartao-conteudo{
+    text-align: center;
+    width: 100%;
+
+}
+.cartao-conteudo h3{
+    background-color: rgb(212, 189, 113);
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+    margin: 0.6rem;
+    border: 1px solid;
+    border-color: bisque;
+    
 }
