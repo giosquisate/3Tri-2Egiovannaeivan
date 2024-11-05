@@ -16,4 +16,7 @@ function criaCartao(categoria,pergunta,resposta){
    `
    container.appendChild(article)
 }
-criaCartao( 'Biologia', 'Qual a função da mitocondria', 'Produção de energia')
+criaCartao( 'Biologia', 'Qual a função da mitocondria?', 'Produção de energia')
+criaCartao( 'Historia', 'Quem descobriu o Brasil?', 'Pedro Alvares Cabral')   
+criaCartao( 'Arte', 'Quem pintou a noite estrelada?', 'Vincent Van Gogh')   
+criaCartao( 'Arte', 'Em que ano foi pintada a Monalisa?', '1503')
